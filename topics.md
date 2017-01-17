@@ -1,24 +1,29 @@
 # Topics
+Tier 1 - Essentials
 - text mining (including regular expressions in Python)
 - Data wrangling packages
 - hadoop
+- sas
+- visualization packages in python
 - deep learning (tensor flow)
+
+
+
+Tier 2
 - web scraping & social media
 - spark
-- geospatial data
-- visualization packages in python
 - user facing algorithms
 - speed up - cython, numba, parallel (pycuda)
 - clustering algorithms
 - image processing
-- sas
+- principle components
 
 
-shiny
-principle components
-logistic regression
-twitter/facebook/other stuff i avoid api
-api general
-reinforcement algorithms
-openaigym
+Tier 3 - If we have time
+- geospatial data
+- shiny
+- api general
+- logistic regression
+- reinforcement algorithms
+- openaigym
 - stylometry
